@@ -1,18 +1,49 @@
-CarND-Functional-Safety-P3
-Udacity Self-Driving Car Nanodegree - Functional Safety Project
+# Functional Safety of a Lane Assistance System
 
-Project overview
-This project consist on creating the documentation for the functional safety of a Lane Assistance system under the umbrella of the Road vehicles - Functional safety : ISO 26262. ISO 26262 is an international standard for functional safety on electrical and/or electronic system in production automobiles defined by the International Organization for Standardization (ISO). The Lane Assistance system is part of a Advanced Driver Assistance System(ADAS) with the following functionalities:
 
-Lane departure warning: When the driver drift toward the edge of the lane, the steering wheel vibrates to alert the driver.
-Lane keeping assistance: When the driver drift toward the edge of the lane, the steering wheel is turned toward the center of the lane to keep the car on its current lane.
-Udacity provides a seed project with document templates, architectural diagrams and guidance on how to approach the project. Here is the link to that seed project
 
-The documentation consists on the following documents
+Your job will be to create functional safety documents based on what you learned in the lessons. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
 
-Safety Plan
-Hazard Analysis and Risk Assessment
-Functional Safety Concept
-Technical Safety Concept
-Software Requirements
-The documents are in pdf format to facilitate the reading of it, but there versions of them in docx and xlsx format in the case of the hazard analysis and risk assessment.
+
+### Description of Repo Files
+
+This repo contains all the files to complete the car nanodegree functional safety project. We are also providing the same files in a google drive folder. Here is the link to the Google Drive folder: [Link to templates](https://drive.google.com/open?id=0ByaZfGJuntGTQWRpNUpuNVVGNlU)
+
+
+The repo contains a PDF file called **Project_Instructions.pdf**. This document gives information about how to approach the project and what is expected. You'll also see a project template folder. There are five files in the folder. You should use these templates to develop your solution:
+
+
+* 01_SafetyPlan_LaneAssistance.doc
+
+* 02_HazardAnalysisAndRiskAssessment.xlsx
+
+* 03_FunctionalSafetyConcept_LaneAssistance.doc
+
+* 04_TechnicalSafetyConcept_LaneAssistance.doc
+
+* 05_SoftwareRequirementsAndArchitecture_LaneAssistance.doc
+
+You will need to fill out all five of these documents in order to meet specifications.  
+
+The repo also contains an Architecture_Diagrams folder containing visuals that you will need to complete the reports. These visuals are in no particular order, and you will decide in which document or documents they belong.
+
+
+### Project Rubric
+You can find the project rubric in the classroom. 
+
+
+### Software
+
+To complete the project, you will need a word processor and spreadsheet software.
+
+If you do not have word processing software on your local computer, we suggest using [Google Drive](https://drive.google.com) or [Microsoft Office in the Cloud](https://www.office.com/). Both of these services are free. 
+
+There are also open source word processors such as [LibreOffice](https://www.libreoffice.org/]) and [OpenOffice](https://www.openoffice.org).
+
+
+### Submitting
+For your project submission, please export your work into pdf files. This will ensure that reviewers can review your work no matter what word processing and spreadsheet software you used.
+
+## How to write a README
+A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
+
